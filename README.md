@@ -17,4 +17,4 @@ I'm currently still learning all the intricacies of Javascript and what it has t
 
 </details>
 
-<a href="https://moepoi.dev" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-secretgarden.cc-lightblue"></a>
+<a href="https://secretgarden.cc" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-secretgarden.cc-lightblue"></a>

@@ -11,9 +11,9 @@ I'm currently still learning all the intricacies of Javascript and what it has t
 
 <details>
 
-<summary>My proudest creation</summary>
+<summary>My proudest creations</summary>
 
-**Verification Complex:** A JavaScript object literal designed to verify the integrity of runtime objects with schemas (schematics).
+- **Verification Complex:** A JavaScript object literal designed to verify the integrity of runtime objects with schemas (schematics).
 
 </details>
 

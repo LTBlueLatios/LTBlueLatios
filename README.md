@@ -1,7 +1,7 @@
 ## Oi' there mate, I'm BlueLatios 😝
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=latibluelatios&show_icons=true&theme=dark)
-![Main Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=latibluelatios)
+![Main Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=latibluelatios&theme=tokyonight)
 
 Hey there! I'm BlueLatios, an advanced JavaScript programmer that codes in full-stack. I started coding in 2021 and enjoy working on self-made projects using Vanilla JavaScript (no TypeScript or frameworks here!).
 

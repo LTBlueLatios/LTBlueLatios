@@ -13,7 +13,7 @@ I'm currently still learning all the intricacies of Javascript and what it has t
 
 <summary>My proudest creations</summary>
 
-- **Validation Complex:** A JavaScript object literal designed to verify the integrity of runtime objects with schemas (schematics).
+- **Sora:** A library of functional modules for my own personal use. Developing it helped my coding abilities to comply with best practices and professional standards.
 
 </details>
 

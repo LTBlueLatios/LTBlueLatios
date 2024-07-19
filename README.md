@@ -5,7 +5,7 @@
 
 Hey there! I'm BlueLatios, an advanced JavaScript programmer that codes in full-stack. I started coding in 2021 and enjoy working on self-made projects using Vanilla JavaScript (no TypeScript or frameworks here!).
 
-I program with a custom event-based architecture, of which I call MDR, that is designed with runtime safety, scalability, and consistency in mind.
+My favourite programming paradigm is the Event Based Architecture.
 
 I'm currently still learning all the intricacies of Javascript and what it has to offer!
 

@@ -1,4 +1,4 @@
-# Hi There! I'm BlueLatios.
+# Hi There! I'm BlueLatios
 
 
 I am a programmer specialising in software engineering and systems design. I like to integrate bits of philosophy into the way I code. My main language is JavaScript/HTML/CSS, however, I can proficiently code in Kotlin and C (without the ++). I strive to keep my code maintainable, clean, and efficient. I love figuring out how to use basic building blocks to form a bigger picture. I have a few somewhat strong opinions that go against the fashion norm, such as preferring VanillaJS over TypeScript and despising the current state of JS frameworks (unnecessary pieces of abstraction). 

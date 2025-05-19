@@ -17,6 +17,6 @@ I like to work on mostly web-dev-related stuff; however, that doesn't exclude me
 - Dolphins
 
 ## Projects to check out
-- SoraJS (A library serving as the building block for anything you you can think of)
+- SoraJS (A library serving as the building block for anything you can think of)
 - Meadow (Privated, in development 2D tower defence game)
 - ZombsArchive (An archive of zombs.io)

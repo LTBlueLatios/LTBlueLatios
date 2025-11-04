@@ -1,6 +1,6 @@
 # Hi There! I'm BlueLatios
 
-A self-taught (and still learning) multi-language fullstack software engineer specialising in philosophy and systems design. My philosophy revolves around all things related to programming. 
+A self-taught (and still learning) multi-language fullstack software engineer specialising in philosophy and systems design. I enjoy all things related to programming. 
 
 :3
 

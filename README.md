@@ -34,6 +34,9 @@ let currentProjects = [
     "ginseng", // ginseng packets ginseng auto heal ginseng ginseng ginse... (262 KB left)
 ];
 
+// My current song obsession :D
+console.log(getCurrentSong()); //  M83 - Midnight City
+
 // TODO: Tail call optimisation (nuh uh)
 function hi() {
     console.log("hi");

@@ -18,7 +18,7 @@ let currentlyLearning = ["DSA"]; // DSA => Data Structures and Algorithms
 // and the order / priority I give them is indeterministic. Hehe.
 //
 // (These projects aren't vibe coded ❌) *extremely loud correct buzzer*
-// (My general stance on AI: Nuh uh)
+// (My general stance on AI slop: Nuh uh)
 let currentProjects = [
     "A Game", // Iykyk ;)
     "Custom Library",

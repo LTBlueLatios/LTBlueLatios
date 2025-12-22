@@ -4,7 +4,10 @@ Asmodeus’s Latios :3
 
 ```js
 let FavouriteThings = ["Pokemon", "Philosophy", "Coding", "Dolphins", "Art"];
-const mainLanguages = new Set(["JavaScript", "C"]);
+const MainLanguages = new Set(["JavaScript", "C"]);
+
+// I am not open for contact!
+let PersonalStatus = "Busy";
 
 function hi() {
     console.log("Hi");

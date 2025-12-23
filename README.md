@@ -10,7 +10,7 @@ Asmodeus’s Latios :3
 
 ```js
 let FavouriteThings = ["Pokemon", "Philosophy", "Coding", "Dolphins", "Art", "Music"];
-const MainLanguages = new Set(["JavaScript", "C"]); // No, HTML is not a programming language !!!
+const MainLanguages = new Set(["JavaScript", "C", "D", "Assembly"]); // No, HTML is not a programming language !!!
 
 // I am not open for contact!
 let PersonalStatus = "Busy";

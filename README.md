@@ -42,7 +42,7 @@ function hi() {
     console.log("hi");
     hi();
 }
-hi(); // hi hi hi hi hi hi hi hi hi hi hi hi hi (Program Error: attention span limit exceeded) <- autistic rambling
+hi(); // hi hi hi hi hi hi hi hi hi hi hi hi hi (Program Error: attention span limit exceeded 🥀) <- autistic rambling
 ```
 
 > *Right-to-left hitbox scanning, anyone?*

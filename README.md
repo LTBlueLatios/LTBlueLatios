@@ -20,7 +20,7 @@ let PersonalStatus = "Busy";
 let currentlyLearning = ["DSA"]; // DSA => Data Structures and Algorithms
 
 // Some projects that I am currently working on. These are fun little
-// projects I made for myself (may be a POC, experiment, or learning moment),
+// projects I made for myself (may be a POC, experiment, learning moment, or just for the fun of it),
 // and the order / priority I give them is indeterministic. Hehe.
 //
 // (These projects aren't vibe coded ❌) *extremely loud correct buzzer*

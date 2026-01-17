@@ -4,7 +4,7 @@
 
 ---
 
-(Probably the) best ~~JavaScript~~ programmer specialising in philosophy of logic and systems design. A real Latios, trust. 
+(Probably the) best ~~JavaScript~~ programmer specialising in philosophy, logic, and systems design. A real Latios, trust. 
 
 Asmodeus’s Latios :3
 

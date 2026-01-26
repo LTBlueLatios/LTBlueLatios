@@ -5,10 +5,8 @@
 ---
 
 <div align="center">
-    SWE • Programming • Logic
+    <h3>Programming • SWE • Philosophy & Logic</h3>
 </div>
-
-<br>
 
 ## Biography
 

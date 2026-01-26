@@ -10,11 +10,18 @@
 
 <br>
 
-*(Probably the) best ~~JavaScript~~ programmer specialising in philosophy and systems design.*
+## Biography
 
+*(Probably the) best ~~JavaScript~~ programmer specialising in philosophy and systems design.* 
+- **Environment**: MacOS / Linux (Server)
+- **Preferred Languages**: JavaScript, C
+- Mildly performance obsessed
+- Asmodeus's Latios :3 🩷
+
+## something
 ```js
 let FavouriteThings = ["Pokemon", "Philosophy", "Coding", "Dolphins", "Art", "Music"];
-const MainLanguages = new Set(["JavaScript", "C", "D"]); // No, HTML is not a programming language !!!
+const FavouriteLanguages = new Set(["JavaScript", "C", "D"]); // No, HTML is not a programming language !!!
 
 // I am not open for contact!
 let PersonalStatus = "Busy";
@@ -48,8 +55,9 @@ function hi() {
 }
 hi(); // hi hi hi hi hi hi hi hi hi hi hi hi hi
 ```
+PS: I'm planning to make this a lot more beautiful than it currently is ;). Really wish github profiles could have a lot more colours outside of the few custom elements you can provide. 
 
-> *Right-to-left hitbox scanning, anyone?*
+> *"I have noticed even people who claim everything is predestined, and that we can do nothing to change it, look before they cross the road." — Stephen Hawking*
 
 <div align="center">
     <img hight="200" width="350" alt="GIF" src="https://cdn.donmai.us/original/ff/9a/__professor_shinonome_nichijou__ff9ab0ca9af35130073eeb3732b0c5ab.gif">

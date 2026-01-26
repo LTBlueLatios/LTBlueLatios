@@ -4,13 +4,17 @@
 
 ---
 
-(Probably the) best ~~JavaScript~~ programmer specialising in philosophy, logic, and systems design. A real Latios, trust. 
+<div align="center">
+    SWE • Programming • Logic
+</div>
 
-Asmodeus’s Latios :3
+<br>
+
+*(Probably the) best ~~JavaScript~~ programmer specialising in philosophy and systems design.*
 
 ```js
 let FavouriteThings = ["Pokemon", "Philosophy", "Coding", "Dolphins", "Art", "Music"];
-const MainLanguages = new Set(["JavaScript", "C", "D", "Assembly"]); // No, HTML is not a programming language !!!
+const MainLanguages = new Set(["JavaScript", "C", "D"]); // No, HTML is not a programming language !!!
 
 // I am not open for contact!
 let PersonalStatus = "Busy";
@@ -42,7 +46,7 @@ function hi() {
     console.log("hi");
     hi();
 }
-hi(); // hi hi hi hi hi hi hi hi hi hi hi hi hi (Program Error: attention span limit exceeded 🥀) <- autistic rambling
+hi(); // hi hi hi hi hi hi hi hi hi hi hi hi hi
 ```
 
 > *Right-to-left hitbox scanning, anyone?*

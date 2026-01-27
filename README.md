@@ -11,8 +11,9 @@
 ## Biography
 
 *(Probably the) best ~~JavaScript~~ programmer specialising in philosophy and systems design.* 
-- **Environment**: MacOS / Linux (Server)
+- **Environment**: MacOS / Linux (Debian-Server)
 - **Preferred Languages**: JavaScript, C
+- **Tools**: Git, GCP, Bash, Github, Cloudflare
 - Mildly performance obsessed
 - Asmodeus's Latios :3 🩷
 

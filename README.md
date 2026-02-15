@@ -52,7 +52,7 @@ function hi() {
     console.log("hi");
     hi();
 }
-hi(); // hi hi hi hi hi hi hi hi hi hi hi hi hi | <- autistic rambling :D
+hi(); // hi hi hi hi hi hi hi hi hi hi hi hi hi 
 ```
 PS: I'm planning to make this a lot more beautiful than it currently is ;). Really wish github profiles could have a lot more colours outside of the few custom elements you can provide. 
 

@@ -4,10 +4,6 @@
 
 ---
 
-<div align="center">
-    <h3>SWE • Programming • Logic</h3>
-</div>
-
 ## Biography
 
 *(Probably the) best ~~JavaScript~~ programmer specialising in philosophy and systems design.* 

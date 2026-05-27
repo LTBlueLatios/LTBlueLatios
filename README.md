@@ -11,7 +11,8 @@
 - **Preferred Languages**: JavaScript, C
 - **Tools**: Git, GCP, Bash, Github, Cloudflare
 - Mildly performance obsessed
-- Asmodeus's Latios :3 🩷
+
+Asmodeus's Latios :3 🩷 | Zootopia Franchise Enthusiast
 
 ## something
 ```js
